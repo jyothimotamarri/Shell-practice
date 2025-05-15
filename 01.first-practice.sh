@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "practing devops aws"
+echo "practing devops aws and devsecops"
