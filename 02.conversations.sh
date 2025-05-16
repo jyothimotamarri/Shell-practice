@@ -1,7 +1,5 @@
 #!/bin/bash
 
-$PERSON1:Agastya
-$PERSON2:Alex
 
 echo "Anu: hey Jyothi, how are you?"
 echo "Jyothi: I am doing well, thank you, how are you?"
