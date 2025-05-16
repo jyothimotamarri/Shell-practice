@@ -3,7 +3,7 @@
 PERSON1=$1
 PERSON2=$2
 
-echo "$person1:: hey $person2, how are you?"
-echo "$person2:: I am doing well, thank you, how are you?"
-echo "$person1::I am also doing well, what;s up?"
-echo "$person2:: looking forward for the summer!"
+echo "$PERSON1:: hey $PERSON2, how are you?"
+echo "$PERSON2:: I am doing well, thank you, how are you?"
+echo "$PERSON1::I am also doing well, what;s up?"
+echo "$PERSON2:: looking forward for the summer!"
